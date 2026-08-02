@@ -43,6 +43,6 @@ Comfortable working across Linux (Ubuntu & Kali) and Windows environments.
 
 ## Connect With Me
 
-- Portfolio: [https://leonard-ogendo-portfolio.vercel.app](https://leonard-ogendo-portfolio.vercel.app/)
-- LinkedIn: https://linkedin.com/in/leonard-ogendo
-- Email: [ogendoleonard5@gmail.com](mailto:ogendoleonard5@gmail.com)
+- [Portfolio](https://leonard-ogendo-portfolio.vercel.app/)
+- [LinkedIn](https://linkedin.com/in/leonard-ogendo)
+- [Email](mailto:ogendoleonard5@gmail.com)
