@@ -4,41 +4,41 @@
 
 <h1 align="center">Hi 👋, I'm Leonard</h1>
 
-<h3>🛡️ Secure Software & Cybersecurity Engineer</h3>
+<h3>Secure Software Engineer | Application Security • DevSecOps</h3>
 
-I build secure backend systems, APIs, and modern web applications — with a strong focus on application security and security automation.
+I am a Secure Software Engineer specializing in designing, building and securing applications, APIs, and modern software systems.
 
-Currently working across fullstack engineering, secure SDLC practices, and Web/API security testing while deepening my expertise in Application Security (AppSec).
+My specialization is **Application Security**, supported by Secure SDLC, DevSecOps, and security testing, which together form the foundation of how I build and secure software.
 
 ---
 
-## Core Specialization & Stack
+## Core Expertise
 
 ### 🔹 Secure Software Engineering
 
-`Java (Spring Boot)` • `Node.js (TypeScript / Express / NestJS)` • `React` • `Angular` • `REST APIs` • `Secure Coding`
+`Java (Spring Boot)` • `Node.js (TypeScript, NestJS, Express)` • `React` • `Angular` • `REST APIs` • `Secure Coding`
 
 ### 🔹 Application Security
 
-`Authentication & Authorization (JWT, OAuth2, RBAC)` • `OWASP Top 10` • `API Security` • `Secure Code Review` • `Security Hardening`
+`Authentication & Authorization (JWT, OAuth2, RBAC)` • `OWASP Top 10` • `API Security` • `Threat Modeling` • `Secure Code Review`
+
+### 🔹 DevSecOps
+
+`CI/CD Security` • `GitHub Actions` • `Docker` • `SAST / DAST / SCA` • `Secrets Management`
 
 ### 🔹 Security Testing & Automation
 
-`Web & API Security Testing` • `Python Security Automation` • `Vulnerability Validation` • `Threat Modeling`
-
-### 🔹 DevSecOps & Secure Delivery
-
-`GitHub Actions` • `SAST / DAST / SCA` • `Docker` • `CI/CD Security` • `Secrets Management` 
+`Web & API Security Testing` • `Vulnerability Validation` • `Python Security Automation`
 
 ### 🔹 Supporting Technologies
 
-`AWS`, `PostgreSQL` • `MongoDB` • `Bash` 
+`AWS` • `Linux` • `PostgreSQL` • `MongoDB` • `Bash` 
 
 ---
 
 Comfortable working across Linux (Ubuntu & Kali) and Windows environments.
 
-<br>
+---
 
 ## Connect With Me
 
