@@ -10,7 +10,7 @@ I am a Secure Software Engineer specializing in designing, building and securing
 
 My specialization is **Application Security**, supported by Secure SDLC, DevSecOps, and security testing, which together form the foundation of how I build and secure software.
 
----
+<br>
 
 ## Core Expertise
 
@@ -34,11 +34,12 @@ My specialization is **Application Security**, supported by Secure SDLC, DevSecO
 
 `AWS` • `Linux` • `PostgreSQL` • `MongoDB` • `Bash` 
 
----
+<br>
 
 Comfortable working across Linux (Ubuntu & Kali) and Windows environments.
 
----
+
+<br>
 
 ## Connect With Me
 
