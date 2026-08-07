@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Leonard</h1>
 
+<h3>Secure Software Engineer | Application Security</h3>
+
 I am a Secure Software Engineer specializing in designing, building and securing applications, APIs, and modern software systems.
 
 My specialization is **Application Security**, supported by Secure SDLC, security testing, and automation, which together form the foundation of how I build and secure software.
