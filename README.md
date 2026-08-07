@@ -10,6 +10,8 @@ I am a Secure Software Engineer specializing in designing, building and securing
 
 My specialization is **Application Security**, supported by Secure SDLC, DevSecOps, and security testing, which together form the foundation of how I build and secure software.
 
+I build openly through software projects, security research, engineering experiments, and practical implementations across modern application ecosystems.
+
 <br>
 
 ## Core Expertise
